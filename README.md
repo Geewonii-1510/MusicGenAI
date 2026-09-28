@@ -1,4 +1,5 @@
 # MusicGenAI – Web Interface 🎵
+AI sinh nhạc teo phong cách DM Gen Music
 
 Giao diện web theo phong cách **ChatGPT** cho mô hình AI sinh nhạc **MusicGenAI** (Text-to-Music Transformer).
 
