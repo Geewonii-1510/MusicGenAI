@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+*.whl
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# Model files (thường rất nặng – không push lên GitHub)
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Vocab (nếu muốn push thì xóa dòng này)
+# vocab/
+
+# Audio output (do model tạo ra, không cần push)
+static/audio/*.wav
+static/audio/*.mp3
+static/audio/*.mid
+
+# Chat history (dữ liệu cá nhân)
+chat_history.json
+
+# Soundfont
+*.sf2
+
+# IDE / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# Flask secret / env
+.env
+*.env.local
