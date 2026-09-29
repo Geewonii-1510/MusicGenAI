@@ -9,7 +9,7 @@ Nhập mô tả bằng tiếng Việt hoặc tiếng Anh → AI tự động t�
 
 ## ✨ Tính năng
 
-- 💬 Chat interface nhập prompt như ChatGPT
+- 💬 Chat interface nhập prompt quen thuộc
 - 🎵 Audio player nghe nhạc trực tiếp trong trình duyệt
 - 📋 Sidebar lịch sử hội thoại (lưu tất cả session)
 - 🔍 Tìm kiếm lịch sử
